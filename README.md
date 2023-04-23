@@ -1,5 +1,5 @@
 # Country Flag Emoji Images
-Pulled these from [unicode.org](unicode) for a project. 
+Pulled these images of flag emoji from [unicode.org](unicode) for a project. 
 
 Feel free to use them within the expected legal limits that I haven't looked up. 🤷‍♂️
 
